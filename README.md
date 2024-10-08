@@ -32,5 +32,4 @@ Features
 8.Documentation: Extensive documentation and guides provided for easy setup and customization.
 
 
-Community Support:
-Join our vibrant community for collaboration, knowledge sharing, and ongoing development.
+
